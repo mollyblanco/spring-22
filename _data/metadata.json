@@ -1,10 +1,10 @@
 {
-  "title": "Cy",
+  "title": "Molly Blanco",
   "url": "https://iastate.edu/",
   "language": "en",
-  "description": "Cy is a mascot",
+  "description": "Molly Blanco website",
   "feed": {
-    "subtitle": "Cy is a mascot",
+    "subtitle": "Molly Blanco website",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://iastate.edu/"
@@ -14,9 +14,9 @@
     "url": "https://iastate.edu/feed/feed.json"
   },
   "author": {
-    "name": "Cy",
-    "email": "cy@iastate.edu",
+    "name": "Molly Blanco",
+    "email": "msblanco@iastate.edu",
     "url": "https://iastate.edu/about-me/",
-    "twitter": "iastate"
+    "twitter": "blanco_molly"
   }
 }
