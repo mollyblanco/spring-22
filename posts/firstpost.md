@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Molly Blanco portfolio
+description: Molly Blanco is a journalism student at Iowa State University. 
 date: 2018-05-01
 tags:
   - another tag
